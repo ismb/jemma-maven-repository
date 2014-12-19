@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.felix</groupId>
+  <artifactId>org.apache.felix.webconsole.plugins.upnp</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20130920123211</lastUpdated>
+  </versioning>
+</metadata>

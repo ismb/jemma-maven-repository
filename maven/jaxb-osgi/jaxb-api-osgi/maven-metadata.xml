@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jaxb-osgi</groupId>
+  <artifactId>jaxb-api-osgi</artifactId>
+  <version>2.2.7</version>
+  <versioning>
+    <versions>
+      <version>2.2.7</version>
+    </versions>
+    <lastUpdated>20130919135116</lastUpdated>
+  </versioning>
+</metadata>

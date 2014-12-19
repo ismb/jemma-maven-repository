@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>javax.xml</groupId>
+  <artifactId>javax.xml</artifactId>
+  <version>1.3.4</version>
+  <versioning>
+    <versions>
+      <version>1.3.4</version>
+    </versions>
+    <lastUpdated>20130919093039</lastUpdated>
+  </versioning>
+</metadata>

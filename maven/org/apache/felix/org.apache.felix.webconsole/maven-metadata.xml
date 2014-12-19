@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.felix</groupId>
+  <artifactId>org.apache.felix.webconsole</artifactId>
+  <version>3.1.8</version>
+  <versioning>
+    <versions>
+      <version>3.1.8</version>
+    </versions>
+    <lastUpdated>20130920123047</lastUpdated>
+  </versioning>
+</metadata>

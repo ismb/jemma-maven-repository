@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.xerces</groupId>
+  <artifactId>org.apache.xerces</artifactId>
+  <version>2.9.0</version>
+  <versioning>
+    <versions>
+      <version>2.9.0</version>
+    </versions>
+    <lastUpdated>20130919092532</lastUpdated>
+  </versioning>
+</metadata>
