@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.energy-home</groupId>
+  <artifactId>jemma.osgi.dal.web-apis</artifactId>
+  <versioning>
+    <release>2.0.1</release>
+    <versions>
+      <version>2.0.1</version>
+    </versions>
+    <lastUpdated>20150728105333</lastUpdated>
+  </versioning>
+</metadata>
